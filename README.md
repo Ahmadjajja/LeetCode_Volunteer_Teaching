@@ -10,3 +10,7 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
 - **Lecture 2:** [(1-hour video)](https://fb.watch/qC1TxH05LO/)
 - **Lecture 3:** [(1-hour video)](https://www.facebook.com/iCodeguru/videos/10pm-leetcode-session/371562689101036/)
 - **Lecture 4:** [(1-hour video)](https://fb.watch/qEvnVBypyD/)
+- **Lecture 5:** [(1-hour video)](https://fb.watch/qLtlN223TB/)
+    * [(144. Binary Tree Preorder Traversal)](https://leetcode.com/problems/binary-tree-preorder-traversal)
+    * [(Solution_Code)]()
+              

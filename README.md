@@ -1,7 +1,7 @@
 # LeetCode_Volunteer_Teaching
 Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode focus, aiding in the technical growth of underprivileged students. This repository offers a collection of coding-related videos crafted with passion, dedicated to underprivileged students striving to excel in the world of technology.
 
-## Recursion Detailed [Workshop](https://github.com/Ahmadjajja/Recursion-nd-Backtracking)
+## Recursion Detailed Workshop [Code_&_Assignments](https://github.com/Ahmadjajja/Recursion-nd-Backtracking)
 - **Day 1:** [(2-hour video)](https://www.facebook.com/iCodeguru/videos/beyond-basics-mastering-advanced-recursion-backtracking-techniques-workshop-2252/921638522962563/)
 - **Day 2:** [(2-hour video)](https://fb.watch/qC2aFOEkkY/)
 
@@ -12,5 +12,5 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
 - **Lecture 4:** [(1-hour video)](https://fb.watch/qEvnVBypyD/)
 - **Lecture 5:** [(1-hour video)](https://fb.watch/qLtlN223TB/)
     * [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)
-    * [Class_Solution_Code]()
+    * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/144-binary-tree-preorder-traversal)
               

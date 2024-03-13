@@ -7,6 +7,10 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
 
 ## LeetCode
 - **Lecture 1:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/6pm-interview-preparation-week-43-day-2/7343373169016752/)
+    * [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/)
+    * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/528-swapping-nodes-in-a-linked-list)
+    * [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)
+    * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/2236-maximum-twin-sum-of-a-linked-list)
 - **Lecture 2:** [1_hour_recording_video](https://fb.watch/qC1TxH05LO/)
 - **Lecture 3:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/10pm-leetcode-session/371562689101036/)
 - **Lecture 4:** [1_hour_recording_video](https://fb.watch/qEvnVBypyD/)

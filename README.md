@@ -1,4 +1,4 @@
-# LeetCode_Volunteer_Teaching
+# Python_LeetCode_Volunteer_Teaching
 Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode focus, aiding in the technical growth of underprivileged students. This repository offers a collection of coding-related videos crafted with passion, dedicated to underprivileged students striving to excel in the world of technology.
 
 ## Recursion Detailed Workshop [Code_&_Assignments](https://github.com/Ahmadjajja/Recursion-nd-Backtracking)

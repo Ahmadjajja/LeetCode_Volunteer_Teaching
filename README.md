@@ -13,4 +13,9 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
 - **Lecture 5:** [(1-hour video)](https://fb.watch/qLtlN223TB/)
     * [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)
     * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/144-binary-tree-preorder-traversal)
+- **Lecture 6:** [(1-hour video)](https://fb.watch/qMN6PWf1Fd/)
+    * [112. Path Sum](https://leetcode.com/problems/path-sum/)
+    * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/112-path-sum)
+    * [100. Same Tree](https://leetcode.com/problems/same-tree/description/)
+    * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/100-same-tree)
               

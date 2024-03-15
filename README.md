@@ -25,4 +25,7 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
 - **Lecture 7:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/712214374146057/)
     * [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
     * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/101-symmetric-tree)
+- **Lecture 8:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/387700677420170/)
+    * [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/)
+    * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/606-construct-string-from-binary-tree)
               

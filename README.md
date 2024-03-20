@@ -28,4 +28,7 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
 - **Lecture 8:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/387700677420170/)
     * [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/)
     * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/606-construct-string-from-binary-tree)
+- **Lecture 9:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/370090039262299/)
+    * [606. Construct String from Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+    * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/235-lowest-common-ancestor-of-a-binary-search-tree)
               

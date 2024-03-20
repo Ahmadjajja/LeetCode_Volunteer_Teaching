@@ -3,7 +3,10 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
 
 ## Recursion Detailed Workshop [Code_&_Assignments](https://github.com/Ahmadjajja/Recursion-nd-Backtracking)
 - **Day 1:** [2_hour_recording_video](https://www.facebook.com/iCodeguru/videos/beyond-basics-mastering-advanced-recursion-backtracking-techniques-workshop-2252/921638522962563/)
-- **Day 2:** [2_hour_recording_video](https://fb.watch/qC2aFOEkkY/)
+- **Day 2:** [2_hour_recording_video](https://www.facebook.com/iCodeguru/videos/387935694027781/)
+
+## Recursion Detailed Workshop
+- **Recording: [00min to 01h : 45min](https://www.facebook.com/iCodeguru/videos/346179145091298/)**
 
 ## LeetCode
 - **Lecture 1:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/6pm-interview-preparation-week-43-day-2/7343373169016752/)

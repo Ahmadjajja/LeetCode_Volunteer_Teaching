@@ -5,7 +5,7 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
 - **Day 1:** [2_hour_recording_video](https://www.facebook.com/iCodeguru/videos/beyond-basics-mastering-advanced-recursion-backtracking-techniques-workshop-2252/921638522962563/)
 - **Day 2:** [2_hour_recording_video](https://www.facebook.com/iCodeguru/videos/387935694027781/)
 
-## Mastering Trees: Unlocking the key of DSA Topic for Coding interviews || Workshop || 3/17/2024
+## Mastering Trees: Unlocking the key of DSA Topic for Coding interviews || Workshop
 - **Recording: [00min to 01h : 45min](https://www.facebook.com/iCodeguru/videos/346179145091298/)**
 
 ## LeetCode

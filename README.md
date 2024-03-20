@@ -7,7 +7,7 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
 - **Code_&_Assignments: [see here](https://github.com/Ahmadjajja/Recursion-nd-Backtracking)**
 
 ## Trees Detailed Workshop
-- **Recording: [00min to 01h : 45min](https://www.facebook.com/iCodeguru/videos/346179145091298/)**
+- **Recording: [00min to 01h : 45min](https://youtu.be/SWskPj7KW7k?si=ijrShp2vlsk6AYKm)**
 
 ## LeetCode
 - **Lecture 1:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/6pm-interview-preparation-week-43-day-2/7343373169016752/)

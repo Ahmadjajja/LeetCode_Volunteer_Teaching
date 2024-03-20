@@ -1,7 +1,7 @@
 # Python_LeetCode_Volunteer_Teaching
 Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode focus, aiding in the technical growth of underprivileged students. This repository offers a collection of coding-related videos crafted with passion, dedicated to underprivileged students striving to excel in the world of technology.
 
-## Recursion Detailed Workshop 
+## Recursion Detailed Workshop || Workshop
 - **Day 1:** [2_hour_recording_video](https://www.facebook.com/iCodeguru/videos/beyond-basics-mastering-advanced-recursion-backtracking-techniques-workshop-2252/921638522962563/)
 - **Day 2:** [2_hour_recording_video](https://www.facebook.com/iCodeguru/videos/387935694027781/)
 - **Code_&_Assignments: [see here](https://github.com/Ahmadjajja/Recursion-nd-Backtracking)**

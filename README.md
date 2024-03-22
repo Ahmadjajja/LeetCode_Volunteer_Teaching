@@ -38,4 +38,9 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
 - **Lecture 10:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/873499627881025/) (Explanation + Solution Code(Behind the scene theory to solve problem))
     * [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
     * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/235-lowest-common-ancestor-of-a-binary-search-tree)
+  - **Lecture 11:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/6am-leetcode-practice/1153734625984185/) 
+    * [100. Same Tree](https://leetcode.com/problems/same-tree/description/)
+    * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/100-same-tree)
+    * [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) (Just explanation)
+    * []()
               

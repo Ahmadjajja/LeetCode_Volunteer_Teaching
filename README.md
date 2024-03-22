@@ -42,5 +42,4 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
     * [100. Same Tree](https://leetcode.com/problems/same-tree/description/)
     * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/100-same-tree)
     * [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) (Just explanation)
-    * []()
               

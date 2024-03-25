@@ -41,5 +41,7 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
 - **Lecture 11:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/6am-leetcode-practice/1153734625984185/) 
     * [100. Same Tree](https://leetcode.com/problems/same-tree/description/)
     * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/100-same-tree)
-    * [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) (Just explanation)
-              
+    * [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) 
+- **Lecture 12:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/6am-leetcode-practice/1363212591060421) 
+    * [100. Same Tree](https://leetcode.com/problems/permutations/)
+    * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/46-permutations)     

@@ -62,3 +62,8 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
     * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/908-middle-of-the-linked-list)     
     * [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)
     * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/234-palindrome-linked-list)     
+- **Lecture 18:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/390910777062984/) 
+    * [143. Reorder List](https://leetcode.com/problems/reorder-list/)
+    * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/143-reorder-list)     
+    * [189. Rotate Array](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/189-rotate-array)
+    * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/189-rotate-array)     

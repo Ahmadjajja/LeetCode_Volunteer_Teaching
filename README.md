@@ -66,4 +66,11 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
     * [143. Reorder List](https://leetcode.com/problems/reorder-list/)
     * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/143-reorder-list)     
     * [189. Rotate Array](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/189-rotate-array)
-    * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/189-rotate-array)     
+    * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/189-rotate-array)
+- **Lecture 19:** [1_hour_recording_video](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1457671095138988) 
+    * [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/)
+    * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/133-clone-graph) 
+
+
+
+

@@ -73,6 +73,9 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
 - **Lecture 20:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/1696246671183375) 
     * [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/)
     * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/133-clone-graph) 
+- **Lecture 20:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/25921974950727162) 
+    * [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+    * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/26-remove-duplicates-from-sorted-array) 
 
 
 

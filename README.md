@@ -79,6 +79,9 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
 - **Lecture 22:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/425677110052610) 
     * [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
     * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/58-length-of-last-word) 
+- **Lecture 23:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/1574918400028534) 
+    * [494. Target Sum](https://leetcode.com/problems/target-sum/description/)
+    * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/494-target-sum) 
 
 
 

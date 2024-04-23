@@ -69,6 +69,9 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
     * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/189-rotate-array)
 - **Lecture 19:** [1_hour_recording_video](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1457671095138988) 
     * [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/)
+    * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/133-clone-graph)
+- **Lecture 20:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/1696246671183375) 
+    * [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/)
     * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/133-clone-graph) 
 
 

@@ -82,6 +82,9 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
 - **Lecture 23:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/1574918400028534) 
     * [494. Target Sum](https://leetcode.com/problems/target-sum/description/)
     * [Solution_Code_Link](https://github.com/Ahmadjajja/JAVA_DSA/tree/main/DailyLeetcoding/494-target-sum) 
+- **Lecture 24:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/450756327607683) 
+    * [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)
+    * [Solution_Code_Link](https://leetcode.com/problems/surrounded-regions/description/) 
 
 
 

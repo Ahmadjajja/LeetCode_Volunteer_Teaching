@@ -85,6 +85,9 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
 - **Lecture 24:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/450756327607683) 
     * [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)
     * [Solution_Code_Link](https://leetcode.com/problems/surrounded-regions/description/) 
+- **Lecture 25:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/1128965611705583) 
+    * [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/)
+    * [Solution_Code_Link](https://leetcode.com/problems/course-schedule/description/) 
 
 
 

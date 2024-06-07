@@ -91,7 +91,6 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
     * [Solution_Code_Link](https://leetcode.com/problems/course-schedule/description/) 
 
 <hr/>
-<hr/>
 # Duolingo English Test Prep to Secure Fully Funded Scholarships
 
 ## Playlist Links
